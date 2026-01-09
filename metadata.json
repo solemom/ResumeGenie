@@ -1,0 +1,5 @@
+{
+  "name": "ResumeGenie Pro - Upgraded - PDF/DOCX",
+  "description": "An AI-powered resume optimizer that analyzes your current resume against a target job description, provides a matching score, and generates a tailored version with highlighted improvements and DOCX export.",
+  "requestFramePermissions": []
+}
